@@ -1,12 +1,12 @@
 <repo>
     <footerlinks>
         <link>
-            <name>Follow me on Twitter</name>
-            <url>https://twitter.com/truesyns</url>
+            <name>Find me on reddit!</name>
+            <url>https://www.reddit.com/user/Street_Onion</url>
             <iconclass>glyphicon glyphicon-user</iconclass>
         </link>
         <link>
-            <name>I want this depiction template</name>
+            <name>Depiction Template</name>
             <url>https://github.com/syns/repo.me</url>
             <iconclass>glyphicon glyphicon-thumbs-up</iconclass>
         </link>
