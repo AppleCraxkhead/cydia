@@ -1,0 +1,36 @@
+<package>
+	<id>com.applecraxkhead.riskkit</id>
+	<name>Riskkit</name>
+	<version>1.1.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>12.0</miniOS>
+			<otherVersions>unconfirmed</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>Unblurs NSFW/Spoilers on Reddit and Apollo</shortDescription>
+	<descriptionlist>
+		<description>Automatically unblurs NSFW and spoiler posts on Reddit and Apollo</description>
+		<description> </description>
+		<description>Compatibility:</description>
+		<description>Tested on iOS 12.x-14.2, should work on most versions tho</description>
+		<description>Reddit version:</description>
+		<description>Last tested on Reddit v.2020.45.0</description>
+		<description>Apollo Version:</description>
+		<description>Last tested on Apollo v.1.10.4</description>
+		<description>Should work on any version until they change how NSFW and spoiler posts work, which is unlikely</description>
+	</descriptionlist>
+	<changelog>
+		<change>New Repo!</change>
+	</changelog>
+	<links>
+		<link>
+			<name>Source Code</name>
+			<url>https://github.com/AppleCraxkhead/Riskkit</url>
+			<iconclass>fa fa-github</iconclass>
+		</link>
+	</links>
+</package>
