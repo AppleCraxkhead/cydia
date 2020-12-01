@@ -14,13 +14,9 @@
 	<shortDescription>Unblurs NSFW/Spoilers on Reddit and Apollo</shortDescription>
 	<descriptionlist>
 		<description>Automatically unblurs NSFW and spoiler posts on Reddit and Apollo</description>
-		<description> </description>
-		<description>Compatibility:</description>
-		<description>Tested on iOS 12.x-14.2, should work on most versions tho</description>
-		<description>Reddit version:</description>
-		<description>Last tested on Reddit v.2020.45.0</description>
-		<description>Apollo Version:</description>
-		<description>Last tested on Apollo v.1.10.4</description>
+		<description>Compatibility: Tested on iOS 12.x-14.2, should work on most versions tho</description>
+		<description>Reddit version: Last tested on Reddit v.2020.45.0</description>
+		<description>Apollo Version: Last tested on Apollo v.1.10.4</description>
 		<description>Should work on any version until they change how NSFW and spoiler posts work, which is unlikely</description>
 	</descriptionlist>
 	<changelog>
