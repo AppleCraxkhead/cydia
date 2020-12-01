@@ -1,0 +1,22 @@
+<package>
+	<id>com.applecraxkhead.psexpress</id>
+	<name>PS Express +</name>
+	<version>0.0.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>12.0</miniOS>
+			<otherVersions>unconfirmed</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>Unlocks premium features for Adobe PS Express</shortDescription>
+	<descriptionlist>
+		<description>Unlocks premium features for the Adobe PS Express app</description>
+		<description>Please do not use this tweak if you are able to pay. It was made with students and residents of third world countries in mind, so they can have equal access to creativity tools</description>
+	</descriptionlist>
+	<changelog>
+		<change>Initial Release</change>
+	</changelog>
+</package>
