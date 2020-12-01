@@ -1,0 +1,19 @@
+Package: com.applecraxkhead.riskkit
+Architecture: iphoneos-arm
+Version: 1.1.1
+Section: Tweaks
+Maintainer: Apple Craxkhead <Applecraxkhead@gmail.com>
+Installed-Size: 264
+Depends: mobilesubstrate
+Filename: ./debians/com.applecraxkhead.riskkit_1.1.1_iphoneos-arm.deb
+Size: 5170
+MD5sum: 15465689a3eb4620ed55083710cd80a2
+SHA1: 5b0c0edc8f35a90bf83494b2204dae0d010874ca
+SHA256: 2d517fe4e724b852c3d611cbdc368a1a96de460c9f8e1ca579d2c90f2f81b270
+SHA512: 144f3583f7f1bc2c0b70a535bcc87703b01ab63f6f99f8f916552f2ff6e50c9ef4de047b84af76b9a5d9228aba211b41643ad51eed452c2401b3414e4dcf8bab
+Description: Unblurs NSFW and spoiler posts on Reddit
+Name: Riskkit
+Author: Apple Craxkhead
+Depiction: https://applecraxkhead.github.io/repo/depictions/web?p=com.applecraxkhead.riskkit
+Icon: https://github.com/applecraxkhead/Riskkit/blob/main/image0.png
+

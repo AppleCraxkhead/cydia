@@ -1,0 +1,37 @@
+Architectures: iphoneos-arm
+Codename: AppleCraxkhead
+Components: main
+Date: Tue, 01 Dec 2020 03:43:11 +0000
+Description: My repo that hosts all of my projects
+Label: AppleCraxkhead's Repo
+Origin: AppleCraxkhead's Repo
+Suite: stable
+Version: 1.0
+MD5Sum:
+ e4ed06a0ac92335a07dfb0492c9ba56f              828 Packages
+ 2b04685e1e3d184954d689686a1f76c4              580 Packages.bz2
+ d8afbf8d8af2cc464359a6d6b2988680              531 Packages.gz
+ 047d45027ebdc1e952a09f72b112e72c              608 Packages.xz
+ 86ca2066249160d52ac563458d48adc8              529 Packages.zst
+ 3c456eada7f5a4454f075780035f701d              245 Release
+SHA1:
+ c85b38ff5a7115c5d2909beee5eab1e6feba39ae              828 Packages
+ 1b017f596aafcc05088b0e066688c88d595a8f57              580 Packages.bz2
+ 1ec408d7928f3a3384c121d761ee1c679709115d              531 Packages.gz
+ 6a8ea718c957154444c57e974f56d08770b1f2f8              608 Packages.xz
+ b92a94f06a9b55749e9cf2c395711b11fd0f7fe6              529 Packages.zst
+ 754e02b455348dfbeeeb50acb757b16dadc1ad4d              245 Release
+SHA256:
+ ffa66b46d1a637ab3879951cfece4594cf4e087510f3ad8c61ed030c8b1b90cb              828 Packages
+ 04f88613d01ab56127a7ef7fb7aa522c4f82d14e90741a4c5b187a90397fd7d6              580 Packages.bz2
+ 39aa32be7f202f9630b7ce1c5d9156f71568f7e3833e3d691fd68de240a628ec              531 Packages.gz
+ bc757f093392dd08fa45d97d9b943cecc4c6050844f545c46dfe29bb1009ceda              608 Packages.xz
+ ba36428cae9494bc69479cc4d210ed4902d0544b4f10d1a70c19d5559d6e8c18              529 Packages.zst
+ fe783710091579cb7cf92cee255953bed8e0ea5f2220140411d3668d6b341d62              245 Release
+SHA512:
+ 4fc8d3e012845e1cd1a442e45f1502cf2b23bfbc38e5ae672c5ddc6da6eb73393bafeb1ebfa0406d45900ec2fd62b7137eae2d1a0adcaa09eee2576dac2ebec7              828 Packages
+ 95e10d036935ca00b153625accc522e885c89a4f19f3be55f6581dca2de2de2a103e207c251cd340630fe9f224bc968ea5c4b8cc677e0c9af2e5baa7ad931045              580 Packages.bz2
+ 1082f1c0abc59d14938cb489eb1705b6a2a86b96d7f661725f8e85a00b80ea156092a5f6311a84ce973d3a9eb0338f3ee39d4083710c4cc0c073b9e910de3dd8              531 Packages.gz
+ ac395a9cfe5e5e7cfcc35685e413da8efb6b79cbf6079ee0e1b808e05f5a504c2778e7cd3057acc1d9bc8f8e51da7ed572e9584ee967b83ddf6ed54593cd2811              608 Packages.xz
+ cba2d23205d7fcad0403dd16ab79bcb2f38857fba8967d26290dabab9bb0ca8e680a319ff4fdb661449795052774e6a9ebeaa90b46a580da7665f96a4a3693d3              529 Packages.zst
+ 1adb5fcfd4fe061470842f89e1d07e28efd9b9e1d5438ff58d8d75d30a5ca9dfd8df65d72e924718c8cee07640bee100e07cba9227d69a45d1a9c974b74c1f55              245 Release
