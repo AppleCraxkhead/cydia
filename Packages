@@ -1,3 +1,21 @@
+Package: com.applecraxkhead.psexpress
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Apple Craxkhead
+Installed-Size: 264
+Depends: mobilesubstrate
+Filename: ./debians/com.applecraxkhead.psexpress_0.0.1_iphoneos-arm.deb
+Size: 4134
+MD5sum: 57f687f2540dec3524ef40045e937784
+SHA1: 38241ac9219a19dea12b17c326050c0b1d8027eb
+SHA256: d6eff4eadf71cabca7b232fc1732a91fb976884004bf33a01bbea30dc9c7c0e2
+SHA512: 35b26d161a14629d11f0b0f4e0044505e9c4bbbb912966e0976c23172ea1bd5affb6f95215667ea3a1f889d68c59afddfbd028ccc702f964aba7f30653f96134
+Description: Unlocks premium features for the Adobe PS Express app. Please do not use this tweak if you are able to pay. It was made with students and residents of third world countries in mind. So that they would have equal access to creativity tools.
+Name: PS Express++
+Author: Apple Craxkhead
+Depiction: https://applecraxkhead.github.io/repo/depictions/web/?p=com.applecraxkhead.psexpress
+
 Package: com.applecraxkhead.riskkit
 Architecture: iphoneos-arm
 Version: 1.1.1
