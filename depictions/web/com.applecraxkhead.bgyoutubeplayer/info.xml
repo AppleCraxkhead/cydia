@@ -1,0 +1,21 @@
+<package>
+	<id>com.applecraxkhead.bgyoutubeplayer</id>
+	<name>BG Youtube Player</name>
+	<version>0.0.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>12.0</miniOS>
+			<otherVersions>unconfirmed</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>Enables Youtube background playback</shortDescription>
+	<descriptionlist>
+		<description>Listen to YouTube videos even when the app is in the background!</description>
+	</descriptionlist>
+	<changelog>
+		<change>Initial Release</change>
+	</changelog>
+</package>
